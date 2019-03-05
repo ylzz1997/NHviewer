@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">学习资料阅览器</string>
+    <string name="action_about">关于</string>
+    <string name="about_author">作者</string>
+    <string name="about_author_content">尤里组长</string>
+    <string name="about_qq">QQ</string>
+    <string name="about_qq_content">609272983</string>
+    <string name="about_email">电子邮箱</string>
+    <string name="about_email_content">ylzz1997@qq.com</string>
+</resources>
